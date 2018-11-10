@@ -1,0 +1,42 @@
+images {
+  image: "/assets/cPlant_texture/Body C.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head A Body.png"
+}
+images {
+  image: "/assets/cPlant_texture/head A Bottom.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head A Leaf.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head A Top.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head B Back.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head B Body.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head B Bottom.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head B Top.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head C Back.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head C Bottom.png"
+}
+images {
+  image: "/assets/cPlant_texture/Head C Top.png"
+}
+images {
+  image: "/assets/cPlant_texture/Shadow.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

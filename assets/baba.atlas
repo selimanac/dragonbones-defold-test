@@ -1,0 +1,30 @@
+images {
+  image: "/assets/Baba_texture/back hair.png"
+}
+images {
+  image: "/assets/Baba_texture/Body.png"
+}
+images {
+  image: "/assets/Baba_texture/Broom.png"
+}
+images {
+  image: "/assets/Baba_texture/Hat Back.png"
+}
+images {
+  image: "/assets/Baba_texture/Hat.png"
+}
+images {
+  image: "/assets/Baba_texture/Head Default.png"
+}
+images {
+  image: "/assets/Baba_texture/Right Arm.png"
+}
+images {
+  image: "/assets/Baba_texture/shadow.png"
+}
+images {
+  image: "/assets/Baba_texture/Spell Arm.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
